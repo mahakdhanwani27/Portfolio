@@ -1086,3 +1086,6 @@ h3.my-profession {
         padding: 6px 16px;
     }
 }
+html {
+  scroll-behavior: smooth;
+}
