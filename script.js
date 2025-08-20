@@ -59,7 +59,7 @@ document.querySelectorAll('a[href="#contact"]').forEach(link => {
 });
 
 // Typing animation effect
-const typingTexts = ['Web Developer', 'MERN Stack Developer', 'Frontend Developer', 'Problem Solver'];
+const typingTexts = ['Web Developer', 'MERN Stack Developer', 'Frontend Developer', 'Problem Solver', 'UI/UX Designer'];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
