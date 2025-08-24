@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, and achievements.  
 Built with **HTML, CSS, JavaScript** (and enhanced with modern UI/UX practices).  
 
-🚀 [Live Portfolio](#https://portfolio-ruby-rho-14.vercel.app/) 
+🚀 [Live Portfolio](https://portfolio-ruby-rho-14.vercel.app/) 
 
 ---
 
